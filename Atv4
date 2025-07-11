@@ -1,0 +1,16 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Quantos graus está?\n")
+		inteiro temperatura = 0
+		leia(temperatura)
+		se(temperatura>=0){
+			escreva("\nEstá positivo")
+		}
+		senao{
+			escreva("\nEstá negativo")
+		}
+	}
+}
