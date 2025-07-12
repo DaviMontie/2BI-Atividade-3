@@ -2,7 +2,8 @@ programa
 {
 	inclua biblioteca Teclado --> t
 	
-	inteiro ano = 0
+	
+	inteiro ano = 0
 	funcao inicio()
 	{
 		escreva("me diz um caracter\n")
